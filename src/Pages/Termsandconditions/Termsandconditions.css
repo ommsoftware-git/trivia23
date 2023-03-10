@@ -1,0 +1,26 @@
+.mainpri {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 1em;
+  }
+  .priheading {
+    font-size: 36px;
+    margin-bottom: 1em;
+  }
+  .prisubheading {
+    font-size: 24px;
+    margin-bottom: 0.5em;
+  }
+  .pripragrap {
+    margin-bottom: 1em;
+  }
+  .prilist {
+    margin-bottom: 1em;
+    list-style-type: square;
+    padding-left: 1em;
+  }
+ 

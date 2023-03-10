@@ -1,0 +1,84 @@
+@media (min-width: 768px) {
+  #mainImage {
+    height: 70vh;
+    min-height: 100%;
+  }
+}
+
+/* #appleapp{
+    display: none;
+  } */
+
+@media (max-width: 767px) {
+  #appleapp {
+    margin-bottom: 2rem;
+    width: 100%;
+  }
+  #Gplay {
+    margin-bottom: 2rem;
+    width: 100%;
+  }
+}
+
+/* media query */
+/* =========================================================== */
+@media (min-width: 1400px) {
+  #Franchies_btn_mobile {
+    display: none;
+  }
+}
+@media (max-width: 1399px) {
+  #Franchies_btn_mobile {
+    display: none;
+  }
+}
+@media (max-width: 1199px) {
+  #Franchies_btn_mobile {
+    display: none;
+  }
+}
+@media (max-width: 991px) {
+  #Franchies_btn_mobile {
+    display: none;
+  }
+}
+@media (max-width: 767px) {
+  #Franchies_btn_mobile {
+    display: none;
+  }
+}
+
+@media (max-width: 570px) {
+  #Franchies_btn_mobile {
+    display: block;
+    width: 100%;
+  }
+}
+@media (max-width: 560px) {
+}
+@media (max-width: 540px) {
+}
+@media (max-width: 520px) {
+}
+
+@media (max-width: 500px) {
+}
+
+@media (max-width: 480px) {
+}
+@media (max-width: 460px) {
+}
+@media (max-width: 440px) {
+}
+@media (max-width: 420px) {
+}
+@media (max-width: 400px) {
+}
+
+@media (max-width: 380px) {
+}
+
+@media (max-width: 360px) {
+}
+@media (max-width: 340px) {
+}

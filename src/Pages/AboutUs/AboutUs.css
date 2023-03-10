@@ -1,0 +1,44 @@
+.header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+  }
+  .services {
+    background-color: #f2f2f2;
+    padding: 20px;
+    text-align: center;
+  }
+  .services h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  .services p {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  .services .icon {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    margin-right: 20px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    vertical-align: middle;
+  }
+  .movers {
+    background-image: url('https://i.ibb.co/T0WYZ6r/Whats-App-Image-2022-10-11-at-5-18-25-PM-1.jpg');
+  }
+  .packers {
+    background-image: url('https://i.ibb.co/g7rDDJw/Whats-App-Image-2023-01-20-at-11-21-29-AM.jpg');
+  }
+  .storage {
+    background-image: url('https://i.ibb.co/TbdLNGj/Whats-App-Image-2022-10-14-at-12-19-56-PM-1.jpg');
+  }
+  .vehicle {
+    background-image: url('https://i.ibb.co/Mh55YJN/Whats-App-Image-2022-10-11-at-5-28-05-PM-1.jpg');
+  }
+  .courier {
+    background-image: url('https://i.ibb.co/TtfPcr1/Whats-App-Image-2022-12-22-at-11-44-47-AM.jpg');
+  }

@@ -1,0 +1,10 @@
+@media (max-width: 767px) {
+  #appleapp {
+    margin-bottom: 2rem;
+    width: 100%;
+  }
+  #Gplay {
+    margin-bottom: 2rem;
+    width: 100%;
+  }
+}
